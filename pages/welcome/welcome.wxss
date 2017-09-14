@@ -1,0 +1,36 @@
+/* pages/welcome/welcome.wxss */
+.container{
+  display:flex;
+  flex-direction: column;
+  align-items:center;
+}
+.user-image{
+  width:197rpx;
+  height:226rpx;
+  margin-top:160rpx;
+}
+.user-name{
+  font-size:32rpx;
+  font-family:MicroSoft Yahei;
+  font-weight:bold;
+  margin-top:100rpx;
+}
+
+.note-container{
+  margin-top:200rpx;
+  height:80rpx;
+  width:200rpx;
+  text-align: center;
+  border:1px solid #fd95a7;
+  border-radius:5px;
+}
+.note{
+  font-size:22rpx;
+  font-family:MicroSoft Yahei;
+  font-weight:bold;
+  line-height:80rpx;
+}
+page{
+  height:100%;
+  background: pink;
+}

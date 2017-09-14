@@ -1,0 +1,8 @@
+
+<view class="container"> 
+  <image class="user-image" src="/image/3.png"></image>
+  <text class="user-name">hello 小慧</text>
+  <view class="note-container">
+    <text class="note">开启小程序之旅</text>
+  </view>
+</view>
